@@ -1,0 +1,6 @@
+resource_group_name = "blend_rg"
+location = "UK South"
+log_analytics_name = "blend_ca_logs"
+container_app_env_name = "blend_ca_env"
+container_app_name = "blend_ca_app"
+image_name = "nginx"
