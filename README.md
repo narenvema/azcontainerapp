@@ -37,3 +37,10 @@ This project provisions a complete Azure setup using Terraform modules:
 
 ### 4. (Optional) Destroy all resources
     terraform destroy -var-file="terraform.tfvars"
+
+---
+
+## Expected outputs
+
+1. Terraform output of the container app URL upon a successful deployment.
+2. Container app and dependent infrastructure deployed on UK South region.
